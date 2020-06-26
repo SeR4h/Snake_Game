@@ -1,3 +1,3 @@
 # Snake_Game
-Snake game built in javascript
-This is my practice project for simple html and javascript
+This is a desktop project built using pure html and javascript.So far it only has one level.Will try adding more levels with time
+-You can find it on https://snakegame2512.herokuapp.com/
